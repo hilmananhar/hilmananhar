@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQEcqySnNZ6BCA/profile-displaybackgroundimage-shrink_350_1400/0/1719375584568?e=1724889600&v=beta&t=q72lwXfbb0ZHxfNwKrDm3xnpamhxnPaibX3T4hVpJzI)](https://linktr.ee/hilmananhar)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEcqySnNZ6BCA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1719375584568?e=2147483647&v=beta&t=yD-RZKCEIOEWgBAzKtMYTuzncLgFweCunHu8dW7V220)](https://linktr.ee/hilmananhar)
 <h1 align="center">Hi 👋, I'm Hilman Maulana Anhar</h1>
 <h3 align="center">A Passionate Software Engineer & UI/UX Designer from Indonesia</h3>
 
