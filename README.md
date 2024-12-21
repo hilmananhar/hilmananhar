@@ -1,4 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEcqySnNZ6BCA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1719375584568?e=2147483647&v=beta&t=yD-RZKCEIOEWgBAzKtMYTuzncLgFweCunHu8dW7V220)](https://linktr.ee/hilmananhar)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHv41cQGsp_SQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727659763073?e=1740009600&v=beta&t=tNQLgV5lK8-yHFB3wq64snIF4i2DRX4JhHMjm30fR6w)](https://linktr.ee/hilmananhar)
+
 <h1 align="center">Hi 👋, I'm Hilman Maulana Anhar</h1>
 <h3 align="center">A Passionate Software Engineer & UI/UX Designer from Indonesia</h3>
 
@@ -10,23 +11,23 @@
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Personal Project**
+- 🔭 I’m currently working on **Personal & Freelance Project**
 
-- 🌱 I’m currently learning **In-depth Backend Development**
+- 🌱 I’m currently learning **In-depth Software Development (both Front-End & Back-End)**
 
 - 👯 I’m looking to collaborate on **Web / Mobile Project**
 
-- 👨‍💻 All of my projects are available at [-](-)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/hilmananhar?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@hilmananhar](https://medium.com/@hilmananhar)
 
 - 💬 Ask me about **Web / Mobile Development**
 
-- 📫 How to reach me **hilmanmaulanaanhar.business@gmail.com**
+- 📫 How to reach me **hilmananhr.contact@gmail.com**
 
-- 📄 Know about my experiences [-](-)
+- 📄 Know about my experiences [1-2 years in Web Development](-)
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ My hobbies **Learning, Reading, Coding, Gaming, and Automotive**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
