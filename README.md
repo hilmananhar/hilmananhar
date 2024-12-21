@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@hilmananhar](https://medium.com/@hilmananhar)
 
-- 💬 Ask me about **Web / Mobile Development**
+- 💬 Ask me about **IT & Automotive** fields
 
 - 📫 How to reach me **hilmananhr.contact@gmail.com**
 
